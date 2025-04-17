@@ -12,3 +12,10 @@ This repository is for practicing the **GitHub Flow** and showcasing work from t
 - Use Microsoft Copilot to assist with coding and problem-solving
 - Explore basic machine learning concepts and workflows
 - Present technical work in an accessible way for arts & humanities audiences
+
+## Contents
+
+- `coding_exercises.ipynb` – Practice with basic Python concepts and Copilot
+- `Machine-Learning-by-Example-from-Start-to-End.ipynb` – Machine learning reflection
+- `creative_llm_idea.ipynb` – Creative application design using a large language model
+
