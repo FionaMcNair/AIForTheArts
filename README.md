@@ -16,6 +16,6 @@ This repository is for practicing the **GitHub Flow** and showcasing work from t
 ## Contents
 
 - `coding_exercises.ipynb` – Practice with basic Python concepts and Copilot
-- `Machine-Learning-by-Example-from-Start-to-End.ipynb` – Machine learning reflection
+- 'sklearn_datasets.ipynb' - Practice with Sklearn Datasets and structuring these using Panda
 - `creative_llm_idea.ipynb` – Creative application design using a large language model
 
