@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Basic page metadata and character encoding -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Page title -->
+    <title>The Wine Atlas</title>
+
+    <!-- Link to external CSS stylesheet -->
+    <link rel="stylesheet" href="FinalProject.css">
+
+    <!-- Importing fonts from Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+	<!-- Header section containing logo and navigation -->
+    <header class="site-header">
+        <!-- Logo linking back to homepage -->
+        <div class="logo">
+			<a href="Homepage.html">
+				<img src="Image/Logo.png" alt="The Wine Atlas Logo">
+			</a>
+		</div>
+
+		<!-- Navigation links to different pages -->
+		<nav class="nav-links">
+            <a href="Homepage.html">Home</a>
+            <a href="InteractiveMap.html">Map</a>
+            <a href="WineRegions.html">Regions</a>
+            <a href="FlavourWheel.html">Flavour</a>
+            <a href="About.html">About</a>
+            <a href="References.html">Sources</a>
+        </nav>
+    </header>
+	
+    <!-- section showcasing main visual and title -->
+    <section class="hero" style="background-image: url('Image/Banner1.png'); background-size: cover; background-position: center;">
+        <div class="hero-overlay">
+            <h1>The Wine Atlas</h1>
+            <p>"An Interactive Infographic Website for Exploring Global Wine Varieties and their Regional Characteristics"</p>
+        </div>
+    </section>
+
+    <!-- Introductory grid with links to key pages -->
+    <section class="intro-grid">
+		<!-- Link to Interactive Map page -->
+        <a href="InteractiveMap.html" class="intro-card-link">
+			<div class="intro-card">
+				<h2>Explore the Map</h2>
+				<p>Navigate the world of wine with our interactive map, from Bordeaux to Barossa.</p>
+			</div>
+		</a>
+		
+		<!-- Link to Flavour Wheel page -->
+		<a href="FlavourWheel.html" class="intro-card-link">
+			<div class="intro-card">
+				<h2>Learn the Flavours</h2>
+				<p>Use our flavour wheel to explore how different grapes and terroirs taste.</p>
+			</div>
+		</a>
+		
+		<!-- Link to About page -->
+		<a href="About.html" class="intro-card-link">
+			<div class="intro-card">
+				<h2>Behind The Wine Atlas</h2>
+				<p>An independently created site as a multimedia exploration of global wine regions.</p>
+			</div>
+		</a>
+    </section>
+	
+	<!-- Highlight section featuring a particular wine region -->
+	<section class="highlight" style="background-image: url('Image/Alsace.jpg'); background-size: cover; background-position: center;"
+		 title="Nemracc, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons">
+		<div class="hero-overlay">
+			<h2>Featured Region: Alsace, France</h2>
+			<p>Crisp, aromatic whites like Riesling and Gewürztraminer thrive here, shaped by cool climates and centuries of Franco-German heritage.</p>
+			<a href="WineRegions.html#barossa" class="button">Explore More Regions →</a>
+		</div>
+	</section>
+
+	<!-- Footer -->
+    <footer class="site-footer">
+        <p>The Wine Atlas | 2775733M | Submitted in fulfilment of Multimedia Analysis & Design(B)</p>
+    </footer>
+
+</body>
+</html>
