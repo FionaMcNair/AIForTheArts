@@ -1,6 +1,6 @@
-# AI For The Arts
+# Artificial Intelligence For The Arts & Humanities(A) Labwork Folio
 
-This repository is for practicing the **GitHub Flow** and showcasing work from the *AI for the Arts and Humanities* course.
+This repository is for practicing the **GitHub Flow** and showcasing work from the *AI for the Arts and Humanities(A)* course.
 
 ---
 
@@ -10,12 +10,12 @@ This repository is for practicing the **GitHub Flow** and showcasing work from t
 - Get comfortable using GitHub Codespaces and Jupyter Notebooks
 - Understand fundamental Python programming concepts
 - Use Microsoft Copilot to assist with coding and problem-solving
-- Explore basic machine learning concepts and workflows
+- Explore machine learning concepts and workflows
 - Present technical work in an accessible way for arts & humanities audiences
 
 ## Contents
 
-- `coding_exercises.ipynb` – Practice with basic Python concepts and Copilot
-- `sklearn_datasets.ipynb` - Practice with Sklearn Datasets and structuring these using Panda
-- `creative_llm_idea.ipynb` – Creative application design using a large language model
+- `coding_exercises.ipynb` – Practice notebook using Copilot for basic Python and learning prompts
+- `sklearn_datasets.ipynb` - Exploration of Scikit-Learn datasets with Pandas and visualisation
+- `creative_llm_idea.ipynb` – A design concept for a wellbeing-focused planner using a large language model (LLM)
 
